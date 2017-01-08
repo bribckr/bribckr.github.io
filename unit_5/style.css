@@ -1,10 +1,11 @@
-header{#FFED74
+header{
 	background-color: [black];
 	border: 1px black solid;
-	padding: 20px;
-	nav: #E8C66A
-	aside: #FFC675
-	article: #E89C6C
-	footer: #FF957E
+	padding: 20px;}
+	
+	header: #FFED74;
+	nav: #E8C66A;
+	aside: #FFC675;
+	article: #E89C6C;
+	footer: #FF957E;
 	div/section: #FFE2B8
-}
